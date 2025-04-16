@@ -12,6 +12,7 @@ RF4: Gerar Relatórios: tempo médio de resolução, efetividade das soluções 
 
 RF5: Gerenciar Notificações: exibir número de notificações ao lado do perfil e notificar funcionários sobre novos chamados.
 
+
 Requisitos não funcionais
 
 RNF1: Desempenho: o sistema deve processar múltiplos chamados simultaneamente sem perda de performance.
