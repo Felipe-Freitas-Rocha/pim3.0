@@ -13,9 +13,7 @@ Esse projeto é resultado de um trabalho acadêmico realizado pelo curso de Ána
 [Nicolas Furtado Rodrigues](https://github.com/AkiraNyaprog) _Dev_
 
 ## Visão Geral ##
-
-![teste](https://github.com/user-attachments/assets/9269f554-e776-42e7-9db9-9ea3e58a4db2)
-
+![teste2](https://github.com/user-attachments/assets/b7a4ce2d-20f7-4a12-8cb4-530f36fb1950)
 O projeto **SmartDesk** é um sistema inteligente de suporte técnico, e tem como objetivo otimizar o atendimento de chamados em empresas de médio porte, promovendo mais agilidade, organização e eficiência nos processos de suporte.
 
 Através de funcionalidades como triagem automática com inteligência artificial, categorização de problemas, geração de relatórios e gestão de usuários, o SmartDesk facilita o dia a dia da equipe de TI. Além disso, sua interface responsiva permite o acesso tanto por desktop quanto por dispositivos móveis, garantindo praticidade e acessibilidade aos usuários e técnicos envolvidos.
