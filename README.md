@@ -52,12 +52,10 @@ Através de funcionalidades como triagem automática com inteligência artificia
 ## Sprint 1: Levantamento e Análise de Requisitos ##
 
 - _Duração:_ 7 dias
-
 - _Objetivo:_ Entender o problema, identificar as necessidades dos usuários e definir os requisitos do sistema.
 
 ## Sprint 2: Backlog do produto ##
 - _Duração:_ 7 dias
-
 - _Objetivo:_ Criar o backlog do produto, definir prioridades e prazos.
 
 ## Sprint 3: Diagramas ##
@@ -82,12 +80,12 @@ Através de funcionalidades como triagem automática com inteligência artificia
 
 
 
-## Sprint Planning ## 
+# Sprint Planning #
 
-### Sprint 1: Levantamento e Análise de Requisitos ###
+## Sprint 1: Levantamento e Análise de Requisitos ##
 Objetivo: Entender o problema, identificar as necessidades dos usuários e definir os requisitos do sistema.
 
-#### Atividades: ####
+### Atividades: ###
 
 - Reunião inicial com stakeholders para entender as necessidades.
 - Levantamento de requisitos funcionais e não funcionais.
@@ -98,10 +96,10 @@ Entrega esperada: Documento de requisitos aprovado.
 
 
 
-### Sprint 2: Backlog do Produto ###
+## Sprint 2: Backlog do Produto ##
 Objetivo: Criar o backlog do produto, definir prioridades e prazos.
 
-#### Atividades: ####
+### Atividades: ###
 
 - Organizar os requisitos levantados na Sprint 1 em histórias de usuário.
 - Priorizar as histórias de usuário com base em valor e complexidade.
@@ -111,10 +109,10 @@ Entrega esperada: Backlog do produto priorizado e com estimativas.
 
 
 
-### Sprint 3: Diagramas UML ###
+## Sprint 3: Diagramas UML ##
 Objetivo: Construir os principais diagramas UML com base nos requisitos levantados.
 
-#### Atividades: ####
+### Atividades: ###
 
 - Criar diagramas de Casos de Uso, Classe, Sequência e Implantação.
 - Validar os diagramas com os stakeholders.
@@ -124,10 +122,10 @@ Entrega esperada: Diagramas UML completos e validados.
 
 
 
-### Sprint 4: Prototipação da Interface ###
+## Sprint 4: Prototipação da Interface ##
 Objetivo: Criar protótipos das interfaces do sistema com base nos requisitos de usabilidade.
 
-#### Atividades: ####
+### Atividades: ###
 
 - Definir as principais telas e fluxos do sistema.
 - Criar wireframes e protótipos interativos.
@@ -138,10 +136,10 @@ Entrega esperada: Protótipos de interface prontos e validados.
 
 
 
-### Sprint 5: Banco de Dados ###
+## Sprint 5: Banco de Dados ##
 Objetivo: Estruturar o banco de dados no MS SQL Server e definir os principais relacionamentos entre tabelas.
 
-#### Atividades: ####
+### Atividades: ###
 
 - Criar o modelo de dados.
 - Implementar a estrutura do banco de dados no MS SQL Server.
@@ -152,10 +150,10 @@ Entrega esperada: Banco de dados estruturado e funcional.
 
 
 
-### Sprint 6: Testes ###
+## Sprint 6: Testes ##
 Objetivo: Elaborar planos e casos de testes baseados nos requisitos definidos.
 
-#### Atividades: ####
+### Atividades: ###
 
 - Criar planos de teste para os requisitos funcionais e não funcionais.
 - Especificar casos de teste detalhados.
@@ -166,10 +164,10 @@ Entrega esperada: Plano de testes documentado e casos de teste executados.
 
 
 
-### Sprint 7: Documentação ###
+## Sprint 7: Documentação ##
 Objetivo: Consolidar toda a documentação do projeto e prepará-la para entrega.
 
-#### Atividades: ####
+### Atividades: ###
 
 - Documentar os requisitos, diagramas, protótipos e banco de dados.
 - Escrever a documentação técnica do sistema.
