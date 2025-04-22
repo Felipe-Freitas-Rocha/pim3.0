@@ -24,7 +24,7 @@ Através de funcionalidades como triagem automática com inteligência artificia
 
 ## Requisitos funcionais ##
 
-**RF1:** Gestão de Chamados: Registrar chamados, acompanhar o status dos chamados, listar chamados, atualizar o status do chamado e registrar soluções aplicadas pelos técnicos.
+- RF1: Gestão de Chamados: Registrar chamados, acompanhar o status dos chamados, listar chamados, atualizar o status do chamado e registrar soluções aplicadas pelos técnicos.
 
 **RF2:** Inteligência Artificial: Analisar e classificar chamados automaticamente, sugerir soluções com base em chamados anteriores, avaliar a prioridade dos chamados, encaminhar chamados para o técnico adequado e aprender com soluções registradas.
 
