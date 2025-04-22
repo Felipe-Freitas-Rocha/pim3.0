@@ -19,20 +19,14 @@ O projeto **SmartDesk** é um sistema inteligente de suporte técnico, e tem com
 
 Através de funcionalidades como triagem automática com inteligência artificial, categorização de problemas, geração de relatórios e gestão de usuários, o SmartDesk facilita o dia a dia da equipe de TI. Além disso, sua interface responsiva permite o acesso tanto por desktop quanto por dispositivos móveis, garantindo praticidade e acessibilidade aos usuários e técnicos envolvidos.
 
-
-
 ## Requisitos funcionais e não funcionais ##
-
 [![Visual do Sistema](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/requisitos.jpeg)](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/requisitos.md)
 
-# Sprint Backlog #
-
+## Sprint Backlog ##
 [![Visual do Sistema](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/sprintb.png)](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/SprintBacklog.md)
 
 
-
-# Sprint Planning #
-
+## Sprint Planning ##
 [![Visual do Sistema](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/image.png)](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/sprintp.md)
 
 
