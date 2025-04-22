@@ -16,7 +16,7 @@ Esse projeto é resultado de um trabalho acadêmico realizado pelo curso de Ána
 
 ![c943cae3-0261-4db9-93df-49a20a20e99b](https://github.com/user-attachments/assets/18093509-2a26-4e8b-bdb4-61d61597f26b)
 
-O projeto SmartDesk é um sistema inteligente de suporte técnico desenvolvido por alunos do curso de Análise e Desenvolvimento de Sistemas da UNIP. Ele tem como objetivo otimizar o atendimento de chamados em empresas de médio porte, promovendo mais agilidade, organização e eficiência nos processos de suporte.
+O projeto SmartDesk é um sistema inteligente de suporte técnico, e tem como objetivo otimizar o atendimento de chamados em empresas de médio porte, promovendo mais agilidade, organização e eficiência nos processos de suporte.
 
 Através de funcionalidades como triagem automática com inteligência artificial, categorização de problemas, geração de relatórios e gestão de usuários, o SmartDesk facilita o dia a dia da equipe de TI. Além disso, sua interface responsiva permite o acesso tanto por desktop quanto por dispositivos móveis, garantindo praticidade e acessibilidade aos usuários e técnicos envolvidos.
 
@@ -52,37 +52,37 @@ RNF5: Segurança: O sistema deve ter criptografia de dados e autenticação fort
 
 ### Sprint 1: Levantamento e Análise de Requisitos ###
 
-_Duração:_ 7 dias
+_Duração:_ 7 dias (20/03 - 27/03)
 
 _Objetivo:_ Entender o problema, identificar as necessidades dos usuários e definir os requisitos do sistema.
 
 ### Sprint 2: Backlog do produto ###  
-_Duração:_ 7 dias
+_Duração:_ 10 dias (27/03 - 06/04)
 
 _Objetivo:_ Criar o backlog do produto, definir prioridades e prazos.
 
 ### Sprint 3: Diagramas ###
-_Duração:_ 2 semanas 
+_Duração:_ 2 semanas (06/04 - 20/04)
 
 _Objetivo:_ Construir os principais diagramas UML baseados nos requisitos levantados.
 
 ### Sprint 4: Prototipação da Interface ###
-_Duração:_ 3 semanas 
+_Duração:_ 3 semanas (20/04 - 11/05)
 
 _Objetivo:_ Criar protótipos das interfaces do sistema com base nos requisitos de usabilidade.
 
 ### Sprint 5: Banco de Dados ### 
-_Duração:_ 2 semanas
+_Duração:_ 2 semanas (27/04 - 11/05)
 
 _Objetivo:_ Estruturar o banco de dados com MS SQL Server e definir os principais relacionamentos entre tabelas.
 
 ### Sprint 6: Testes ###
-_Duração:_ 7 dias
+_Duração:_ 7 dias (11/05 - 17/05)
 
 _Objetivo:_ Elaborar planos e casos de testes baseados nos requisitos definidos.
 
 ### Sprint 7: Documentação ###
-_Duração:_ 7 dias
+_Duração:_ 7 dias (17/05 - 22/05)
 
 _Objetivo:_ Consolidar toda a documentação do projeto e prepará-la para entrega.
 
