@@ -1,4 +1,4 @@
-## Requisitos funcionais ##
+# Requisitos funcionais #
 
 - **RF1:** Gestão de Chamados: Registrar chamados, acompanhar o status dos chamados, listar chamados, atualizar o status do chamado e registrar soluções aplicadas pelos técnicos.
 
@@ -11,7 +11,7 @@
 - **RF5:** Gerenciar Notificações: Exibir número de notificações ao lado do perfil e notificar funcionários sobre novos chamados.
 
 
-## Requisitos não funcionais ##
+# Requisitos não funcionais #
 
 - **RNF1:** Desempenho: O sistema deve responder aos usuários de forma rápida, mesmo quando vários chamados forem abertos ao mesmo tempo, em situações comuns de uso.
 
