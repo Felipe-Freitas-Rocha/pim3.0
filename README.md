@@ -53,7 +53,7 @@ Através de funcionalidades como triagem automática com inteligência artificia
 
 - _Duração:_ 7 dias
 
-_Objetivo:_ Entender o problema, identificar as necessidades dos usuários e definir os requisitos do sistema.
+- _Objetivo:_ Entender o problema, identificar as necessidades dos usuários e definir os requisitos do sistema.
 
 ### Sprint 2: Backlog do produto ###  
 _Duração:_ 7 dias
