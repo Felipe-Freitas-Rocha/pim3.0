@@ -51,7 +51,7 @@ Através de funcionalidades como triagem automática com inteligência artificia
 
 # Sprint 1: Levantamento e Análise de Requisitos #
 
-_Duração:_ 7 dias
+- _Duração:_ 7 dias
 
 _Objetivo:_ Entender o problema, identificar as necessidades dos usuários e definir os requisitos do sistema.
 
