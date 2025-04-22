@@ -14,7 +14,7 @@ Esse projeto é resultado de um trabalho acadêmico realizado pelo curso de Ána
 
 ## Visão Geral ##
 
-![c943cae3-0261-4db9-93df-49a20a20e99b](https://github.com/user-attachments/assets/18093509-2a26-4e8b-bdb4-61d61597f26b)
+https://postimg.cc/rDj3Bs2Q 
 
 O projeto SmartDesk é um sistema inteligente de suporte técnico, e tem como objetivo otimizar o atendimento de chamados em empresas de médio porte, promovendo mais agilidade, organização e eficiência nos processos de suporte.
 
