@@ -49,7 +49,7 @@ Através de funcionalidades como triagem automática com inteligência artificia
 
 ## Sprint Backlog ##
 
-### Sprint 1: Levantamento e Análise de Requisitos ###
+# Sprint 1: Levantamento e Análise de Requisitos #
 
 _Duração:_ 7 dias
 
