@@ -1,4 +1,4 @@
-# ✔️ Sprint Planning - Detalhamento #
+# ✔️ Sprint Backlog - Detalhamento #
 
 ## 🚀 Sprint 1: Levantamento e Análise de Requisitos ##
 ### 🎯 Objetivo: 
