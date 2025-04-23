@@ -27,6 +27,6 @@ Através de funcionalidades como triagem automática com inteligência artificia
 
 
 ## Sprint Planning ##
-[![Visual do Sistema](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/image.png)](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/sprintp.md)
+[![Visual do Sistema](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/image.png)](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/SprintPlanning.md)
 
 
