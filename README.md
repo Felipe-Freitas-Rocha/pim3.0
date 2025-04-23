@@ -23,7 +23,7 @@ Através de funcionalidades como triagem automática com inteligência artificia
 [![Visual do Sistema](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/requisitos.jpeg)](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/requisitos.md)
 
 ## Sprint Backlog ##
-[![Visual do Sistema](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/sprintb.png)](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/SprintBacklog.md)
+[![Visual do Sistema](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/image.png)](https://github.com/Felipe-Freitas-Rocha/pim3.0/blob/main/SprintBacklog.md)
 
 
 ## Sprint Planning ##
